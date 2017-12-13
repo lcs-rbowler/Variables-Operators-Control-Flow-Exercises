@@ -35,7 +35,10 @@
  
  */
 // Answer Question 1 below
-
+let firstName = "Ryan"
+let lastName = "Bowler"
+var currentGrade = 92
+let novemberGrade = 86
 /*:
  ### Question 2
  
@@ -47,7 +50,9 @@
  
  */
 // Answer Question 2 below
-
+let myAge = 16
+let otherAge = 40.0
+let averageAge = (Double(myAge) + otherAge) / 2
 
 /*:
  ### Question 3
@@ -55,7 +60,7 @@
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this variable.
  */
 // Answer Question 3 below
-
+var favoriteHobby = "Video Games"
 
 /*:
  ### Question 4
@@ -65,7 +70,10 @@
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
+print("Constants should always be used if you know that the variable is never going to change.")
+print("This way you can't accidentally change the value you have assigned.")
+print("Forcing the value to be constant 24/7 will also improve the efficientcy of your code by running faster")
+print("since the code doesn't have to check the constant over to see if it's changed.")
 
 /*:
  ### Question 5
