@@ -70,6 +70,8 @@ var favoriteHobby = "Video Games"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
+print("Question 4")
+print("")
 print("Constants should always be used if you know that the variable is never going to change.")
 print("This way you can't accidentally change the value you have assigned.")
 print("Forcing the value to be constant 24/7 will also improve the efficientcy of your code by running faster")
@@ -84,7 +86,7 @@ print("since the code doesn't have to check the constant over to see if it's cha
  
  */
 // Answer Question 5 below
-
+let randomDemand = "$1,000,000"
 /*:
  ### Question 6
  
@@ -104,8 +106,18 @@ print("since the code doesn't have to check the constant over to see if it's cha
  
  */
 // Answer Question 6 below
+var year = 2017
+let constant = "this is a constant"
 
-
+//year = constant
+print("_______________________________________________________________________________________________________")
+print("")
+print("Question 6")
+print("")
+print("Since the Variable is assigned as type")
+print("Interger and the Constant is assinged as")
+print("type String the Variable cannot change")
+print("from one type to another.")
 /*:
  ### Question 7
  
@@ -114,9 +126,14 @@ print("since the code doesn't have to check the constant over to see if it's cha
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
-
-
+print("_______________________________________________________________________________________________________")
+print("")
+print("Question 7")
+print("")
+print("Since Swift is a type-safe language")
+print("programmers are able to easily fiqure")
+print("out what type has been assigned whatever")
+print("they are using.")
 
 //: [Next](@next)
 
